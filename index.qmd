@@ -1,0 +1,51 @@
+---
+title: "Cesar A. Ponce Diego"
+subtitle: "Pharmaceutical Chemist and Biologist"
+about:
+  template: trestles
+  image: /images/profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/cesar_ponce12
+    - icon: github
+      text: Github
+      href: https://github.com/Kaz-bits
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cesarponce-csp/
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@knowbu-bioinformatics8077/featured
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/_knowbu/
+---
+
+## Bio
+
+I am currently pursuing a Master of Science degree at Sosa's laboratory at the School of Medicine, which is associated with the physicochemistry and protein engineering laboratory at the National Autonomous University of Mexico.
+
+I obtained my Bachelor of Science degree at the School of Chemistry at the National Autonomous University of Mexico.
+
+I am currently an entrepreneur seeking to establish a new start-up focused on the teaching of artificial intelligence algorithms in educational institutions.
+
+## Research interests
+
+-   **Protein design:** exploration in the intrinsically disordered regions (IDRs) universe to study their physicochemical properties and design new biosensors for tracking the intracellualr environment.
+
+-   **Fluorescence techniques:** Utilizing the FRET technique for asking if disorder proteins reacts with chemical environment shifts.
+
+-   **Computational analysis:** in silico analysis and programming using Python, R, and bash, to answer questions about which combination of molecular properties allows to design intrinsically disordered regions with a high structural sensitivity to a hyperosmotic environment.
+
+-   **Artificial intelligence:** computational characterization of physicochemical protein properties based on artificial intelligence and machine learning algorithms.
+
+## Teaching
+
+I dedicate time to teaching programming languages like Python, R, and Bash to young scientists and the public. Since 2019, I have been passionate about working towards establishing a startup focused on teaching programming languages within the scientific community, aiming to empower individuals with valuable coding skills.
+
+## Personal life
+
+I am engaged in scientific outreach at science museums in Mexico City, and scientific dissemination in museums of science in the city of Mexico I communicate astronomy topics to diverse audiences, fostering science appreciation among children, young adults, and the elderly.
+
+Beyond academia, my entrepreneurial vision is leveraging artificial intelligence algorithms to enhance global scientific endeavors. In my leisure time, I immerse myself in video games, using them to explore historical events. Exploring the city aimlessly is a cherished pastime, allowing me to appreciate the beauty of my surroundings without a predetermined destination.
